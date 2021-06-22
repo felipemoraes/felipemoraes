@@ -5,7 +5,7 @@
 <!-- <h2 align="center">About me</h2>-->
 
 - 🌱 Doing a PhD in CS. [**research**](https://fmoraes.nl)
-- 💻 Developing [**SearchX**](https://www.github.io/felipemoraes/SearchX).
+- 💻 Lead developer of [**SearchX**](https://www.github.io/felipemoraes/SearchX).
 - 📈 Former Amazon applied scientist intern.
 
 
